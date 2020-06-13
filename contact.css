@@ -1,0 +1,21 @@
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+div {
+  font-size: 18px;
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+p {
+  background-color: green;
+}
+/*# sourceMappingURL=contact.css.map */
